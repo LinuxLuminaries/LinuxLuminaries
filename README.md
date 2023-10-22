@@ -86,14 +86,18 @@ int main() {
 
 
 ```sh
--> BASH SCRIPT
+-> JAVA SCRIPT
 ```
 ```sh
 -> BATCH SCRIPT
 ```
 ```sh
+-> BASH SCRIPT
+```
+```sh
 -> POWERSHELL
 ```
+
 
 #
 #### Languages
