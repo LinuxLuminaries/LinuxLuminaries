@@ -24,7 +24,12 @@ I am Aditya Singh, a bachelor of Dayananda sagar college of arts science and com
 > I believe that with proper guidance,
 > I can achieve even greater excellence 
 > and make the most of better opportunities
-
+#
+|CERTIFICATE|LINKS|
+|-----|------|
+|Cyber Security Course|[@GOOGLEDRIVE][Plgd2]|
+|Work Experience|[@GOOGLEDRIVE][Plgd1]|
+#
 #
 ## Technical Skills.
 
