@@ -1,6 +1,8 @@
 # Aditya Singh
 
 I am Aditya Singh, a bachelor of Dayananda sagar college of arts science and commerce(DSCASC), pursuing BCA, I am multi-talented and an enthusiast guy, having 2 years of work-experience as NetworkEnginner, and more than 1.5 years of BugHunting and found 50+ bugs on diffrent websites.
+#
+[![N|Profile](https://raw.githubusercontent.com/LinuxLuminaries/mac-changer/master/Untitled.png)](https://github.com/LinuxLuminaries)
 
 #
 | EMAIL | PHONE | ADDRESS ![location](https://raw.githubusercontent.com/LinuxLuminaries/Ender/main/location.png)|
