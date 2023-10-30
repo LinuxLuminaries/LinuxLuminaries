@@ -61,7 +61,7 @@ Not a Ghost Online, Just need some real Keywords to FIND me up there.
 | ------ | ------ |
 | GitHub | [LinuxLuminaries][Plgh]|
 | YouTube | [@linuxluminaries][Plyt]|
-
+| Medium | [@rajbot9998112][Plmd]|
 
 #
 #### Programming Languages
@@ -127,5 +127,6 @@ int main() {
    
    [Plgh]:<https://github.com/LinuxLuminaries/>
    [Plyt]:<https://youtube.com/@linuxluminaries>
+   [Plmd]:<https://medium.com/@rajbot9998112>
    [Plgd1]:<https://drive.google.com/file/d/1ZlrCg80rPWLo0aZkNJzvtDeNc30SLo5b/view?usp=share_link>
    [Plgd2]:<https://drive.google.com/file/d/1zrJLCNL9G8Nx5H6313c6NjTjAx4vi19G/view?usp=share_link>
