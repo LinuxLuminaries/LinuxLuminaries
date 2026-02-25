@@ -7,8 +7,19 @@
 ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
 ```                                          
+#
+### ████████████████████████████████
+#
+### CONFIDENTIAL DOSSIER FILE
+#
+### ████████████████████████████████
 
-###### CLEARANCE LEVEL: RED | STATUS: ACTIVE
+###### FILE ID: UCD-ADI-20██
+###### CLEARANCE LEVEL: RED
+###### STATUS: ACTIVE
+###### SUBJECT: ADI██A
+###### ALIAS: Tr0██NS
+
 
 ## ▌Operator ID
 
@@ -19,33 +30,51 @@
 
 ## ▌SUBJECT PROFILE REPORT
 
-Designation: Offensive Security Researcher
-Experience Level: 2+ Years (Field Operations)
-Operational Classification: Adversarial Simulation & Threat Intelligence
+- Designation: Offensive ████████ Researcher
+- Experience Level: 2+ Years (Field Operations)
+- Operational Classification: Adversarial Simulation & Threat Intelligence
 
-#### Summary of Activities:
+##### Summary of Activities:
 The subject possesses over two years of field-driven experience conducting adversarial simulations, attack surface mapping, and intelligence-led security assessments. Operational focus includes identifying systemic weaknesses through structured offensive methodologies and controlled exploitation scenarios.
 
 
 
-## ▌Core Operational Functions:
+## ▌OPERATIONAL CAPABILITIES
 
-- Advanced Reconnaissance & Target Enumeration
-- Vulnerability Research & Exploit Analysis
-- OSINT-Based Intelligence Correlation
-- Dark Web Threat Monitoring & Intelligence Gathering
-- Reverse Engineering & Technical Artifact Analysis
-- Controlled Phishing Infrastructure Deployment
-  
+- Advanced Reconnaissance & Enumeration  
+-  Web Application Exploitation  
+-  Network Surface Analysis  
+-  Reverse Engineering Fundamentals  
+-  Threat Intelligence Collection  
+-  Security Automation & Data Pipelines  
+-  Adversary Emulation  
+```
+Operational discipline: Structured  
+Noise profile: Minimal  
+Adaptability: High  
+```
+
+## ▌TECHNICAL PROFICIENCY INDEX
+
+| Online ID | README |
+| ------ | ------ |
+| - LINUX OPERATIONS        | ADVANCED    |
+| - WEB EXPLOITATION        | ACTIVE      |
+| - INTELLIGENCE GATHERING  | DEPLOYED    |
+| - AUTOMATION CAPABILITY   | VERIFIED    |
+| - RED TEAM TRADECRAFT     | OPERATIONAL |
+
 ## ▌Operational Toolkit
-
-- Burp Suite  
+- BurpSuite  
 - Ghauri  
+- ████████
 - Nessus  
+- ████████
 - Acunetix (AWVS)  
 - Hashcat  
 - John the Ripper  
-- GoPhish  
+- GoPhish 
+- ████████
 - Kali Linux  
 - Custom Python & Bash Frameworks  
 
@@ -74,14 +103,8 @@ public class RedTeam {
 | Online ID | README |
 | ------ | ------ |
 | GitHub | [LinuxLuminaries][Plgh]|
-| Medium | [@linuxluminaries][Plmd]|
+| Medium | [LinuxLuminaries][Plmd]|
 
-## ▌Doctrine
- - Silence during recon.
-- Precision during exploitation.
-- Discipline during persistence.
-- Responsibility after impact.
-- Adaptation at all times.
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
