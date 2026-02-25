@@ -86,7 +86,6 @@ public class RedTeam {
 | Online ID | README |
 | ------ | ------ |
 | GitHub | [LinuxLuminaries][Plgh]|
-
 | Medium | [@linuxluminaries][Plmd]|
 
 ## ▌Doctrine
