@@ -1,132 +1,103 @@
-# Aditya Singh
+# [ CLASSIFIED DOSSIER ]
+```
+ █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+```                                          
 
-I am Aditya Singh, a bachelor of Dayananda sagar college of arts science and commerce(DSCASC), pursuing BCA, I am multi-talented and an enthusiast guy, having 2 years of work-experience as NetworkEnginner, and more than 1.5 years of BugHunting and found 50+ bugs on diffrent websites.
-#
-[![N|Profile](https://raw.githubusercontent.com/LinuxLuminaries/mac-changer/master/Untitled.png)](https://github.com/LinuxLuminaries)
+###### CLEARANCE LEVEL: RED | STATUS: ACTIVE
 
-#
-| EMAIL | PHONE | ADDRESS ![location](https://raw.githubusercontent.com/LinuxLuminaries/Ender/main/location.png)|
-| ------ | ------ | ------ |
-|adityasir.n2578@gmail.com|6391380353|Kumarswamy Layout, Bangalore|
-#
-- A self called techie
-- Tech-Enthusiast
-#
-## Work Experience
+## ▌Operator ID
 
-- Worked as Network Engineer in DreamCom Networks Pvt Ltd.
-- Worked Some Small Projects :- Food Delivery Website - Backend and Frontend Both 
+Aditya Singh  
+Offensive Security Researcher  
+Experience: 2+ Years  
+Operational Focus: Adversarial Simulation & Intelligence Collection  
 
+## ▌SUBJECT PROFILE REPORT
 
-> I possess the skills and confidence 
-> to excel in my work, trusting in my 
-> abilities to deliver results. However, 
-> I believe that with proper guidance,
-> I can achieve even greater excellence 
-> and make the most of better opportunities
-#
-|CERTIFICATE|LINKS|
-|-----|------|
-|Cyber Security Course|[@GOOGLEDRIVE][Plgd2]|
-|Work Experience|[@GOOGLEDRIVE][Plgd1]|
-#
-#
-## Technical Skills.
+Designation: Offensive Security Researcher
+Experience Level: 2+ Years (Field Operations)
+Operational Classification: Adversarial Simulation & Threat Intelligence
 
-```sh
--> Very proficient in Linux
--> Bash Scripting
--> HTML & CSS
--> Cyber Security
--> Reverse Engineer
--> Programmer
+#### Summary of Activities:
+The subject possesses over two years of field-driven experience conducting adversarial simulations, attack surface mapping, and intelligence-led security assessments. Operational focus includes identifying systemic weaknesses through structured offensive methodologies and controlled exploitation scenarios.
+
+---
+
+## Core Operational Functions:
+
+Advanced Reconnaissance & Target Enumeration
+Vulnerability Research & Exploit Analysis
+OSINT-Based Intelligence Correlation
+Dark Web Threat Monitoring & Intelligence Gathering
+Reverse Engineering & Technical Artifact Analysis
+Controlled Phishing Infrastructure Deployment
+
+## ▌Operational Toolkit
+
+- Burp Suite  
+- Ghauri  
+- Nessus  
+- Acunetix (AWVS)  
+- Hashcat  
+- John the Ripper  
+- GoPhish  
+- Kali Linux  
+- Custom Python & Bash Frameworks  
+
+---
+
+## ▌Technical Capabilities
+
+```bash
+-> Attack Surface Mapping
+-> Web Application Exploitation
+-> Network Enumeration
+-> Linux Tradecraft
+-> Intelligence Collection Pipelines
+-> Automation & Scripted Recon
+-> Adversary Simulation
 ```
 
-#
-# Tools i am proficient at.
-- [SQLMAP] - Testing for SQL injection to access vulnerable databases.
-- [GHAURI] - advanced version of SQLMAP
-- [GHIDRA] - reverse engineering tool developed by the National Security Agency
-- [BURPSUITE] - performing security testing of web applications
-- [AWVS] - Acunetix Web Vulnerability Scanner
-- [NESSUS] - Web Vulnerability Scanner
-- [JOHN] - Password Cracking Tool 
-- [KALI LINUX] - Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing.
+## ▌Programming & Tradecraft
 
-#
-### Links
-Not a Ghost Online, Just need some real Keywords to FIND me up there.
+#### PYTHON
 
-| Online ID | README |
-| ------ | ------ |
-| GitHub | [LinuxLuminaries][Plgh]|
-| YouTube | [@linuxluminaries][Plyt]|
-| Medium | [@linuxluminaries][Plmd]|
-
-#
-#### Programming Languages
-PYTHON
 ```python
-s = "I know python"
-print s
+def exploit():
+    print("Enumerate. Exploit. Escalate.")
+
+exploit()
 ```
-JAVA
+#### JAVA
 ```java
-public class Main {
+public class RedTeam {
     public static void main(String[] args) {
-        System.out.println("I know JAVA");
+        System.out.println("Think like an attacker.");
     }
 }
 ```
-C
-```c
-#include <stdio.h>
 
-int main() {
-    printf("I know Python\n");
-    return 0;
-}
-```
+## ▌Digital Trace
 
+###### Visibility: Controlled | Exposure: Calculated
+
+| GitHub | [LinuxLuminaries][Plgh]|
+| Medium | [@linuxluminaries][Plmd]|
 #
-#### Scripting Langauages
-
-
-```sh
--> JAVA SCRIPT
-```
-```sh
--> BATCH SCRIPT
-```
-```sh
--> BASH SCRIPT
-```
-```sh
--> POWERSHELL
-```
-
-
-#
-#### Languages
-- HINDI
-- ENGLISH
-- NEPALI
-
+## ▌Doctrine
+ - Silence during recon.
+- Precision during exploitation.
+- Discipline during persistence.
+- Responsibility after impact.
+- Adaptation at all times.
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-   [SQLMAP]: <https://sqlmap.org/>
-   [BURPSUITE]: <https://portswigger.net/burp>
-   [NESSUS]: <https://www.tenable.com/products/nessus>
-   [GHIDRA]:<https://ghidra-sre.org/>
-   [GHAURI]:<https://github.com/r0oth3x49/ghauri>
-   [AWVS]:<https://www.acunetix.com/vulnerability-scanner/>
-   [JOHN]:<https://github.com/openwall/john>
-   [KALI LINUX]:<https://www.kali.org/>
-   
-   [Plgh]:<https://github.com/LinuxLuminaries/>
+[Plgh]:<https://github.com/LinuxLuminaries/>
    [Plyt]:<https://youtube.com/@linuxluminaries>
    [Plmd]:<https://linuxluminaries.medium.com/>
-   [Plgd1]:<https://drive.google.com/file/d/1ZlrCg80rPWLo0aZkNJzvtDeNc30SLo5b/view?usp=share_link>
-   [Plgd2]:<https://drive.google.com/file/d/1zrJLCNL9G8Nx5H6313c6NjTjAx4vi19G/view?usp=share_link>
