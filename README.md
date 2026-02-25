@@ -6,11 +6,7 @@
 ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
 ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
-```                                          
-#
-### ███████████████████████████████████████
-#
-
+```
 
 ###### CLEARANCE LEVEL: RED | STATUS: ACTIVE
 
@@ -49,7 +45,7 @@ Adaptability: High
 
 ## ▌TECHNICAL PROFICIENCY INDEX
 
-| Online ID | README |
+| CAPABILITY INDEX        | STATUS      |
 | ------ | ------ |
 | LINUX OPERATIONS        | ADVANCED    |
 | WEB EXPLOITATION        | ACTIVE      |
