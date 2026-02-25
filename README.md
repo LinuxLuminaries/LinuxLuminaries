@@ -30,18 +30,13 @@ The subject possesses over two years of field-driven experience conducting adver
 
 ## ▌Core Operational Functions:
 
-Advanced Reconnaissance & Target Enumeration
-
-Vulnerability Research & Exploit Analysis
-
-OSINT-Based Intelligence Correlation
-
-Dark Web Threat Monitoring & Intelligence Gathering
-
-Reverse Engineering & Technical Artifact Analysis
-
-Controlled Phishing Infrastructure Deployment
-
+- Advanced Reconnaissance & Target Enumeration
+- Vulnerability Research & Exploit Analysis
+- OSINT-Based Intelligence Correlation
+- Dark Web Threat Monitoring & Intelligence Gathering
+- Reverse Engineering & Technical Artifact Analysis
+- Controlled Phishing Infrastructure Deployment
+  
 ## ▌Operational Toolkit
 
 - Burp Suite  
