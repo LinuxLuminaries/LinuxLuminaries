@@ -26,15 +26,20 @@ Operational Classification: Adversarial Simulation & Threat Intelligence
 #### Summary of Activities:
 The subject possesses over two years of field-driven experience conducting adversarial simulations, attack surface mapping, and intelligence-led security assessments. Operational focus includes identifying systemic weaknesses through structured offensive methodologies and controlled exploitation scenarios.
 
----
 
-## Core Operational Functions:
+
+## ▌Core Operational Functions:
 
 Advanced Reconnaissance & Target Enumeration
+
 Vulnerability Research & Exploit Analysis
+
 OSINT-Based Intelligence Correlation
+
 Dark Web Threat Monitoring & Intelligence Gathering
+
 Reverse Engineering & Technical Artifact Analysis
+
 Controlled Phishing Infrastructure Deployment
 
 ## ▌Operational Toolkit
@@ -48,8 +53,6 @@ Controlled Phishing Infrastructure Deployment
 - GoPhish  
 - Kali Linux  
 - Custom Python & Bash Frameworks  
-
----
 
 ## ▌Technical Capabilities
 
@@ -87,8 +90,9 @@ public class RedTeam {
 ###### Visibility: Controlled | Exposure: Calculated
 
 | GitHub | [LinuxLuminaries][Plgh]|
+
 | Medium | [@linuxluminaries][Plmd]|
-#
+
 ## ▌Doctrine
  - Silence during recon.
 - Precision during exploitation.
