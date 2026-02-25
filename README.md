@@ -12,10 +12,10 @@
 
 ## ▌Operator ID
 
-Aditya Singh  
-Offensive Security Researcher  
-Experience: 2+ Years  
-Operational Focus: Adversarial Simulation & Intelligence Collection  
+- Aditya Singh  
+- Offensive Security Researcher  
+- Experience: 2+ Years  
+- Operational Focus: Adversarial Simulation & Intelligence Collection  
 
 ## ▌SUBJECT PROFILE REPORT
 
@@ -48,18 +48,6 @@ The subject possesses over two years of field-driven experience conducting adver
 - GoPhish  
 - Kali Linux  
 - Custom Python & Bash Frameworks  
-
-## ▌Technical Capabilities
-
-```bash
--> Attack Surface Mapping
--> Web Application Exploitation
--> Network Enumeration
--> Linux Tradecraft
--> Intelligence Collection Pipelines
--> Automation & Scripted Recon
--> Adversary Simulation
-```
 
 ## ▌Programming & Tradecraft
 
