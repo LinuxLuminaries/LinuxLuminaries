@@ -1,4 +1,4 @@
-# [ CLASSIFIED DOSSIER ]
+# [ CONFIDENTIAL DOSSIER FILE ]
 ```
  █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
 ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
@@ -8,18 +8,11 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
 ```                                          
 #
-### ████████████████████████████████
+### ███████████████████████████████████████
 #
-### CONFIDENTIAL DOSSIER FILE
-#
-### ████████████████████████████████
 
-###### FILE ID: UCD-ADI-20██
-###### CLEARANCE LEVEL: RED
-###### STATUS: ACTIVE
-###### SUBJECT: ADI██A
-###### ALIAS: Tr0██NS
 
+###### CLEARANCE LEVEL: RED | STATUS: ACTIVE
 
 ## ▌Operator ID
 
@@ -58,11 +51,11 @@ Adaptability: High
 
 | Online ID | README |
 | ------ | ------ |
-| - LINUX OPERATIONS        | ADVANCED    |
-| - WEB EXPLOITATION        | ACTIVE      |
-| - INTELLIGENCE GATHERING  | DEPLOYED    |
-| - AUTOMATION CAPABILITY   | VERIFIED    |
-| - RED TEAM TRADECRAFT     | OPERATIONAL |
+| LINUX OPERATIONS        | ADVANCED    |
+| WEB EXPLOITATION        | ACTIVE      |
+| INTELLIGENCE GATHERING  | DEPLOYED    |
+| AUTOMATION CAPABILITY   | VERIFIED    |
+| RED TEAM TRADECRAFT     | OPERATIONAL |
 
 ## ▌Operational Toolkit
 - BurpSuite  
@@ -106,6 +99,8 @@ public class RedTeam {
 | Medium | [LinuxLuminaries][Plmd]|
 
 
+END OF FILE
+██████████████████████████████████████████
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 [Plgh]:<https://github.com/LinuxLuminaries/>
