@@ -83,7 +83,8 @@ public class RedTeam {
 ## ▌Digital Trace
 
 ###### Visibility: Controlled | Exposure: Calculated
-
+| Online ID | README |
+| ------ | ------ |
 | GitHub | [LinuxLuminaries][Plgh]|
 
 | Medium | [@linuxluminaries][Plmd]|
